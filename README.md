@@ -1,3 +1,6 @@
+# Git Page Can be found here: 
+https://sanarogers.github.io/web-design-challenge-/
+
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 ## Background
